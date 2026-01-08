@@ -1,7 +1,5 @@
 function Home() {
-    return <h1>MUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
-            POh POh
-            muuuuuuuuuuuuuuuuu
+    return <h1>se voce me ama vem me dar um bj
     </h1>
 }
 
