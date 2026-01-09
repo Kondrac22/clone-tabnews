@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>se voce me ama vem me dar um bj
+    return <h1>meu site ta indo de vez
     </h1>
 }
 
